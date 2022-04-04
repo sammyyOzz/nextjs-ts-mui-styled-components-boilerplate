@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.8.2",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.8.1",
+    "@fontsource/roboto": "^4.5.1",
+    "@mui/icons-material": "^5.2.4",
+    "@mui/material": "^5.5.3",
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.1",
+    "@types/react": "^17.0.37",
+    "@types/styled-components": "^5.1.24",
+    "eslint": "^8.5.0",
+    "eslint-config-next": "^12.0.7",
+    "typescript": "^4.5.4"
+  }
+}
